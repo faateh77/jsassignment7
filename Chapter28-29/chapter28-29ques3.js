@@ -1,0 +1,1 @@
+document.write(parseFloat(12.43));
